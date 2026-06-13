@@ -11,13 +11,13 @@ For more contact informations visit my [site](https://kerso.cloud)
 ## Github stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 86.6 kB Used in GitHub's Storage 
+> 📦 86.8 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2026
  > 
@@ -30,21 +30,21 @@ For more contact informations visit my [site](https://kerso.cloud)
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌆 Daytime                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-🌃 Evening                55 commits          ████████████░░░░░░░░░░░░░   48.25 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+🌞 Morning                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+🌆 Daytime                29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌃 Evening                56 commits          ████████████░░░░░░░░░░░░░   47.86 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Friday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Monday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Saturday                 22 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
 ```
 
 
@@ -54,24 +54,24 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       ███████████████████░░░░░░   77.59 % 
-HTML                     43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Gettext Catalog          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   3 hrs 53 mins       █████████████████░░░░░░░░   69.85 % 
+HTML                     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Gettext Catalog          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Zed                      3 hrs 42 mins       █████████████████████████   100.00 % 
+Zed                      5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-django_example_todo_app  1 hr 52 mins        █████████████░░░░░░░░░░░░   50.39 % 
-librenet                 1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.77 % 
-posnet-connector         16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-scraper                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+librenet                 3 hrs 24 mins       ███████████████░░░░░░░░░░   61.12 % 
+django_example_todo_app  1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
+posnet-connector         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+scraper                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +91,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 20:36:16 UTC
+ Last Updated on 13/06/2026 20:03:59 UTC
 <!--END_SECTION:waka-->

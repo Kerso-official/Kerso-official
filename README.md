@@ -11,7 +11,7 @@ For more contact informations visit my [site](https://kerso.cloud)
 ## Github stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
 
@@ -54,24 +54,22 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   3 hrs 53 mins       █████████████████░░░░░░░░   69.85 % 
-HTML                     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Gettext Catalog          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   2 hrs 59 mins       ███████████████░░░░░░░░░░   61.37 % 
+HTML                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Gettext Catalog          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Zed                      5 hrs 34 mins       █████████████████████████   100.00 % 
+Zed                      4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-librenet                 3 hrs 24 mins       ███████████████░░░░░░░░░░   61.12 % 
-django_example_todo_app  1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-posnet-connector         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-scraper                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+librenet                 4 hrs 50 mins       █████████████████████████   99.17 % 
+django_example_todo_app  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    5 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +89,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 20:03:59 UTC
+ Last Updated on 14/06/2026 20:07:29 UTC
 <!--END_SECTION:waka-->

@@ -11,9 +11,7 @@ For more contact informations visit my [site](https://kerso.cloud)
 ## Github stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2043%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,22 +52,20 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   2 hrs 59 mins       ███████████████░░░░░░░░░░   61.37 % 
-HTML                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Gettext Catalog          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Python                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   49.89 % 
+HTML                     1 hr 23 mins        ███████████░░░░░░░░░░░░░░   42.34 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+git ignore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Zed                      4 hrs 52 mins       █████████████████████████   100.00 % 
+Zed                      3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-librenet                 4 hrs 50 mins       █████████████████████████   99.17 % 
-django_example_todo_app  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+librenet                 3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +85,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 20:07:29 UTC
+ Last Updated on 15/06/2026 21:34:57 UTC
 <!--END_SECTION:waka-->

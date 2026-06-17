@@ -11,6 +11,8 @@ For more contact informations visit my [site](https://kerso.cloud)
 ## Github stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 21:27:53 UTC
+ Last Updated on 17/06/2026 20:36:21 UTC
 <!--END_SECTION:waka-->

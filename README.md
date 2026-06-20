@@ -54,20 +54,18 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Python                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   49.89 % 
-HTML                     1 hr 23 mins        ███████████░░░░░░░░░░░░░░   42.34 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-git ignore               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+HTML                     44 mins             █████████████░░░░░░░░░░░░   51.51 % 
+Python                   38 mins             ███████████░░░░░░░░░░░░░░   44.19 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-Zed                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Zed                      1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-librenet                 3 hrs 17 mins       █████████████████████████   100.00 % 
+librenet                 1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +85,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 20:17:23 UTC
+ Last Updated on 20/06/2026 20:06:10 UTC
 <!--END_SECTION:waka-->

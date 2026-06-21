@@ -54,18 +54,16 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-HTML                     44 mins             █████████████░░░░░░░░░░░░   51.51 % 
-Python                   38 mins             ███████████░░░░░░░░░░░░░░   44.19 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-librenet                 1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +83,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kerso-official/Kerso-official/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 20:06:10 UTC
+ Last Updated on 21/06/2026 20:13:31 UTC
 <!--END_SECTION:waka-->

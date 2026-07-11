@@ -2,11 +2,9 @@
 
 ## Hi, I'm Kerso
 
-A young backend & frontend developer
+A learning software developer
 
-I'm currently working on [Posnet-Connector](https://github.com/Kerso-official/Posnet-Connector)
-
-For more contact informations visit my [site](https://kerso.cloud)
+<!--I'm currently working on [Posnet-Connector](https://github.com/Kerso-official/Posnet-Connector)-->
 
 ## Github stats
 
